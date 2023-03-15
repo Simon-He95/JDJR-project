@@ -84,7 +84,7 @@
     "vue-router": "^3.0.1",
     "vue-style-loader": "^3.0.3",
     "vue-template-compiler": "^2.5.9",
-    "webpack": "^5.75.0",
+    "webpack": "^5.76.0",
     "webpack-dev-server": "^2.9.5",
     "write-file-webpack-plugin": "^4.2.0"
   },
